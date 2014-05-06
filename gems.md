@@ -60,6 +60,10 @@ Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
 https://github.com/gregbell/active_admin<br>
 The administration framework for Ruby on Rails applications.
 
+* __Better errors__<br>
+https://github.com/charliesome/better_errors<br>
+Better error page for Rack apps
+
 ## Backend
 * __Scheduling__<br>
 https://github.com/javan/whenever
