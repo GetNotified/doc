@@ -35,9 +35,9 @@ Resources:
   * [Grape: API Authentication w/ Devise](http://code.dblock.org/grape-api-authentication-w-devise)
 
 ### Style
-* __Bootstrap for Rails__<br>
-https://github.com/seyhunak/twitter-bootstrap-rails<br>
-Integrates the Bootstrap CSS toolkit for Rails Asset Pipeline
+* __Octicons__<br>
+https://octicons.github.com/
+GitHub icons font.
 
 * __Font Awesome__<br>
 https://github.com/bokmann/font-awesome-rails<br>
